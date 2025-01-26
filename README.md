@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saltuntas
 - 👀 I’m interested in "Computational Engineering and Science, Thermal Fluid Sciences, Fuid-Structure Interaction". 
-- 🌱 I’m currently learning "Nonlinear FEM, CFD, Molecular Thermodynamics". 
 - 📫 How to reach me : sukuraltuntas@gmail.com
 
 <!---
